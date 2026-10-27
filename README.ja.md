@@ -10,6 +10,7 @@
 [![Rust](https://img.shields.io/badge/built%20with-Rust-ce422b.svg?logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4.svg?logo=windows&logoColor=white)](#動作環境)
 [![Size](https://img.shields.io/badge/binary-304%20KB-4c8bf5.svg)](#)
+[![Download](https://img.shields.io/github/v/release/4yr6/simplekeystroke?label=download&color=4c8bf5)](https://github.com/4yr6/simplekeystroke/releases/latest)
 
 <img src="docs/preview.png" width="560" alt="SimpleKeystroke">
 
@@ -42,7 +43,7 @@ SimpleKeystroke は、画面の隅に小さなキーボード（**W A S D** + **
 
 ## クイックスタート
 
-1. `simplekeystroke.exe` をダウンロード。
+1. [`simplekeystroke.exe`](https://github.com/4yr6/simplekeystroke/releases/latest) をダウンロード。
 2. ダブルクリックで起動。HUD が左下に現れ、トレイにアイコンが出ます。
 3. トレイアイコンを右クリックしてカスタマイズ。終了は <kbd>End</kbd> キー。
 

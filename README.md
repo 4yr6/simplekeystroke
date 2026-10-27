@@ -10,6 +10,7 @@
 [![Rust](https://img.shields.io/badge/built%20with-Rust-ce422b.svg?logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4.svg?logo=windows&logoColor=white)](#requirements)
 [![Size](https://img.shields.io/badge/binary-304%20KB-4c8bf5.svg)](#)
+[![Download](https://img.shields.io/github/v/release/4yr6/simplekeystroke?label=download&color=4c8bf5)](https://github.com/4yr6/simplekeystroke/releases/latest)
 
 <img src="docs/preview.png" width="560" alt="SimpleKeystroke">
 
@@ -42,7 +43,7 @@ Good for: stream overlays (OBS), screen recordings, tutorial videos, or simply w
 
 ## Quick start
 
-1. Download `simplekeystroke.exe`.
+1. Download [`simplekeystroke.exe`](https://github.com/4yr6/simplekeystroke/releases/latest).
 2. Double-click it. The HUD appears in the bottom-left corner and an icon shows up in the tray.
 3. Right-click the tray icon to customize. Press <kbd>End</kbd> to quit.
 

@@ -10,6 +10,7 @@
 [![Rust](https://img.shields.io/badge/built%20with-Rust-ce422b.svg?logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4.svg?logo=windows&logoColor=white)](#环境要求)
 [![Size](https://img.shields.io/badge/binary-304%20KB-4c8bf5.svg)](#)
+[![Download](https://img.shields.io/github/v/release/4yr6/simplekeystroke?label=download&color=4c8bf5)](https://github.com/4yr6/simplekeystroke/releases/latest)
 
 <img src="docs/preview.png" width="560" alt="SimpleKeystroke">
 
@@ -42,7 +43,7 @@ SimpleKeystroke 在屏幕角落里画一个小键盘（**W A S D** + **空格**�
 
 ## 快速开始
 
-1. 下载 `simplekeystroke.exe`。
+1. 下载 [`simplekeystroke.exe`](https://github.com/4yr6/simplekeystroke/releases/latest)。
 2. 双击运行。HUD 出现在左下角，托盘出现图标。
 3. 右键托盘图标自定义。按 <kbd>End</kbd> 退出。
 
